@@ -1,0 +1,1 @@
+Welcome to the landing page for my coursework! These are all my assignment and their code for the CIT-130 course! If you are a current student, no peeking(no cheating by copying and pasting)! But otherwise, feel free to look through my repo for sample code or potentially something worth teaching to a class!
